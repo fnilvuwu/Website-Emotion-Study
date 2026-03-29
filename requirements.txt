@@ -1,0 +1,9 @@
+fastapi[all]
+sqlalchemy
+pydantic
+uvicorn
+opencv-python
+mediapipe
+numpy
+torch # For AffectNet model (PyTorch version)
+torchvision
